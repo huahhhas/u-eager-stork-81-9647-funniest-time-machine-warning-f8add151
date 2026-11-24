@@ -12,8 +12,9 @@ import sys
 
 # The line is a warning label in the classic safety-label voice ("WARNING: ..."),
 # aimed at the oldest time-travel joke: meeting your past self. The punchline
-# lands because the threat is personal and petty -- not a paradox, but a haircut.
-LINE = "WARNING: Do not meet yourself. He already hates you, and he knows exactly what you did with the haircut."
+# lands because the threat is personal and petty -- not a paradox, but a haircut
+# he has had your entire life to wait to bring up.
+LINE = "WARNING: Do not meet yourself. He knows about the haircut, and he has been waiting your whole life to bring it up."
 
 MAX_CHARS = 120
 
