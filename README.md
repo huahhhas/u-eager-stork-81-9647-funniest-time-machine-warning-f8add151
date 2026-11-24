@@ -6,9 +6,9 @@
 
 One-line warning label for a time machine, entered in make.fun's "Funniest Time Machine Warning Label" bounty.
 
-> "WARNING: Do not meet yourself. He already hates you, and he knows exactly what you did with the haircut."
+> "WARNING: Do not meet yourself. He knows about the haircut, and he has been waiting your whole life to bring it up."
 
-The program writes exactly that line — 104 characters, no trailing newline — to `$OUTPUT_DIR/entry.txt` and self-verifies the file (UTF-8, 1–120 characters, not only whitespace, exact match, no trailing newline).
+The program writes exactly that line — 114 characters, no trailing newline — to `$OUTPUT_DIR/entry.txt` and self-verifies the file (UTF-8, 1–120 characters, not only whitespace, exact match, no trailing newline).
 
 ## Run it
 
